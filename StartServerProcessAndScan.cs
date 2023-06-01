@@ -1,3 +1,6 @@
+//Stolen from the buttplug unity library
+
+
 // Starts up a Buttplug Server, creates a client, connects to it, and has that
 // client run a device scan. All output goes to the Unity Debug log.
 //
