@@ -1,0 +1,52 @@
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\OnyxPlugin.deps.json
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\OnyxPlugin.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\OnyxPlugin.pdb
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.csproj.AssemblyReference.cache
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\obj\Debug\netstandard2.0\PluginInfo.cs
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.GeneratedMSBuildEditorConfig.editorconfig
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.AssemblyInfoInputs.cache
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.AssemblyInfo.cs
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.csproj.CoreCompileInputs.cache
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.pdb
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\Eromancer.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\Unity.ResourceManager.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\Unity.Addressables.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\Unity.InputSystem.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\INIFileParser.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\RunawaySystems.Logging.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\DynamicBones.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\AstarPathfindingProject.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\Unity.Postprocessing.Runtime.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\spine-unity.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\RunawaySystems.Logging.UnityBuild.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\bin\Debug\netstandard2.0\Pathfinding.Ionic.Zip.Reduced.dll
+F:\sys_logs\g4\!unity test\PURE_ONYX_-_2023-04-30_Patched\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.csproj.CopyComplete
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\OnyxPlugin.deps.json
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\OnyxPlugin.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\OnyxPlugin.pdb
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\Eromancer.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\Unity.ResourceManager.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\Unity.Addressables.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\Unity.InputSystem.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\INIFileParser.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\RunawaySystems.Logging.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\DynamicBones.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\AstarPathfindingProject.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\Unity.Postprocessing.Runtime.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\spine-unity.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\RunawaySystems.Logging.UnityBuild.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\bin\Debug\netstandard2.0\Pathfinding.Ionic.Zip.Reduced.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.csproj.AssemblyReference.cache
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\obj\Debug\netstandard2.0\PluginInfo.cs
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.GeneratedMSBuildEditorConfig.editorconfig
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.AssemblyInfoInputs.cache
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.AssemblyInfo.cs
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.csproj.CoreCompileInputs.cache
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.csproj.CopyComplete
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.dll
+F:\sys_logs\g4\!unity test\old pure onyx\OnyxPlugin\obj\Debug\netstandard2.0\OnyxPlugin.pdb
