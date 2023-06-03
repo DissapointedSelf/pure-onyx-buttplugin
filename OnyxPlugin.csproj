@@ -13,8 +13,6 @@
     <PackageReference Include="BepInEx.Analyzers" Version="1.*" PrivateAssets="all" />
     <PackageReference Include="BepInEx.Core" Version="5.*" />
     <PackageReference Include="BepInEx.PluginInfoProps" Version="1.*" />
-    <PackageReference Include="Buttplug" Version="3.0.0" />
-    <PackageReference Include="Buttplug.Client.Connectors.WebsocketConnector" Version="3.0.0" />
     <PackageReference Include="UnityEngine.Modules" Version="2019.4.34.40878" IncludeAssets="compile" />
     <Reference Include="Eromancer">
       <HintPath>libs\Eromancer.dll</HintPath>

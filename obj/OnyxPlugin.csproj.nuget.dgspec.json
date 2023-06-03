@@ -59,14 +59,6 @@
               "target": "Package",
               "version": "[1.*, )"
             },
-            "Buttplug": {
-              "target": "Package",
-              "version": "[3.0.0, )"
-            },
-            "Buttplug.Client.Connectors.WebsocketConnector": {
-              "target": "Package",
-              "version": "[3.0.0, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

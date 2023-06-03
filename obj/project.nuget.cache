@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DnhXYjAaDLFkSt44V3MgKLgKuYzAv4YieKFyNfg+I8feNK9mwAcg/Ca68nyBnxa4zi/GKcZdzQbzqE4JLK6cBw==",
+  "dgSpecHash": "rrmgo02rkdpowIYhoNKU0nbNzPPvOAHdQGbA6pHDwkn2ipfZyKjL6OV6S5ceBqyQmXOR/oKEkhB3PidnJhqXFw==",
   "success": true,
   "projectFilePath": "F:\\sys_logs\\g4\\!unity test\\old pure onyx\\OnyxPlugin\\OnyxPlugin.csproj",
   "expectedPackageFiles": [
@@ -8,18 +8,13 @@
     "C:\\Users\\matt\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\bepinex.plugininfoprops\\1.1.0\\bepinex.plugininfoprops.1.1.0.nupkg.sha512",
-    "C:\\Users\\matt\\.nuget\\packages\\buttplug\\3.0.0\\buttplug.3.0.0.nupkg.sha512",
-    "C:\\Users\\matt\\.nuget\\packages\\buttplug.client.connectors.websocketconnector\\3.0.0\\buttplug.client.connectors.websocketconnector.3.0.0.nupkg.sha512",
-    "C:\\Users\\matt\\.nuget\\packages\\deniszykov.websocketlistener\\4.2.15\\deniszykov.websocketlistener.4.2.15.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
-    "C:\\Users\\matt\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\matt\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
@@ -47,7 +42,6 @@
     "C:\\Users\\matt\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\matt\\.nuget\\packages\\system.threading.tasks.dataflow\\7.0.0\\system.threading.tasks.dataflow.7.0.0.nupkg.sha512",
     "C:\\Users\\matt\\.nuget\\packages\\unityengine.modules\\2019.4.35\\unityengine.modules.2019.4.35.nupkg.sha512"
   ],
   "logs": [
