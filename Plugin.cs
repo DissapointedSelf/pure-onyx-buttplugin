@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using Eromancer;
 using Eromancer.Animation;
 using Eromancer.GameDB;
-
+using UnityEngine.Networking;
 /*
 
     Classes are pulled from dnspy decompiling the game
@@ -43,6 +43,22 @@ using Eromancer.GameDB;
             static string animationName = "";
             static float timer = 0.0f;
 
+            public static void sendCommand(string name){
+
+
+                //dev version
+                //var request = UnityWebRequest.Post("http://localhost:7105/Edi/Play/"+name+"?seek=0", "");
+                //release version
+                var request = UnityWebRequest.Post("http://localhost:5000/Edi/Play/"+name+"?seek=0", "");
+                 request.SetRequestHeader("accept", "*/*");
+                request.SendWebRequest();
+            }
+             public static void stopCommand(){
+                var request = UnityWebRequest.Post("http://localhost:5000/Edi/Stop/", "");
+                request.SetRequestHeader("accept", "*/*");
+                request.SendWebRequest();
+             }
+
 
 
 
@@ -74,9 +90,13 @@ using Eromancer.GameDB;
                     //add the speed to the end of the name to distinguish for edi
                     //this value should be passed to /edi/play/{animName}
                     string animName = animationSlot +"_"+ ((int)(___animations[animationSlot].Length * 100)).ToString();
-                    FileLog.Log("---" + currTime.ToString() + ",gallery,True");
-                    FileLog.Log(animName + ",onyx_gallery,"+ currTime.ToString() + ",");
 
+                    //log to Desktop/harmony.log.txt animation timings(for definition.csv)
+                    //FileLog.Log("---" + currTime.ToString() + ",gallery,True");
+                    //FileLog.Log(animName + ",onyx_gallery,"+ currTime.ToString() + ",");
+
+
+                    sendCommand(animName);
                     /* Example output target(after processing)
                     OnyxVsWraxeLift_A0_S0_45,1,120227,120227,gallery,True
                     OnyxVsWraxeLift_A0_H0_30,1,197219,197219,gallery,True
@@ -94,6 +114,15 @@ using Eromancer.GameDB;
                 timer += Time.deltaTime;
                 return true;
             }
+
+            //runs after a sexscene sends device stop signal
+            [HarmonyPatch(typeof(SexScenePlayer),"PostScene")]
+            [HarmonyPrefix]
+            static bool PostScene( SexScenePlayer __instance )
+            {
+                stopCommand();
+                return true;
+            }
             
             /*
             [HarmonyPatch(typeof(SexScenePlayer),"PreScene")]
@@ -109,18 +138,6 @@ using Eromancer.GameDB;
                     buttServer= buttplugObj.AddComponent<StartServerProcessAndScan>() as StartServerProcessAndScan;
                 }
                 
-                return true;
-            }
-
-
-            //runs after a sexscene
-            [HarmonyPatch(typeof(SexScenePlayer),"PostScene")]
-            [HarmonyPrefix]
-            static bool PostScene( SexScenePlayer __instance )
-            {
-
-                Destroy(buttplugObj);
-         
                 return true;
             }
 
